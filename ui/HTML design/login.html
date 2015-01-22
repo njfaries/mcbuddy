@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css" rel="stylesheet">
+		<link rel="stylesheet" href="main2.css">
+		<link rel="shortcut icon" href="martletimage.ico" />
+		<title>McBuddy</title>
+		<script>
+			function forgotPassword(){
+				var x = prompt("Please enter your registered email id to recover your password: ");
+				if(x!=null){ 
+					var y = alert("Your password has been sent to your email address.");
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<div class="jumbotron">
+			<center><div class="container">
+				<h1>McBuddy <img src="mainPageMartlet.png"><h1>
+				<a href="loginfrench.html"><font style="text-decoration:underline;color:white; font-size:12px">Fran&ccedil;ais</a></font></center><br>
+				<center><p>USERNAME <input type="text" style="text-decoration:"></input>
+				<p><br>PASSWORD <input type="password"></input></p>
+				<a href="login.html" onclick="forgotPassword()"><font style="text-decoration:underline; padding-right:60px; float:right; color:white; font-size:12px">FORGOT PASSWORD?</a></font><br>
+				<br><button style="background-color:transparent;"><font style="font-size:20px; color:#fff;">LOGIN</button><br><br>
+				<button style="background-color:transparent;" onclick="location.href='register.html'">REGISTER</font></button><br>
+			</div>
+		</div>
+	</body>
+</html>
