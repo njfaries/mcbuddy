@@ -7,7 +7,7 @@
 | -----------: | :--------------- | :---------------------: | :----------------: | :--------: | :------: | :-----------: |
 | S2           | S2T1 - mockup/static integration | 4 | | | | |
 | S3           | S3T1 - UI Mockup | 3 | Lilly |Jan 20 | Jan 22|3|
-|              | S3T2 - UI Coding | 3 | Amee | | | |
+|              | S3T2 - UI Coding | 3 | Amee | Jan 21 | Jan 23 | 3 |
 | S4           | S3T1 - UI Mockup | 1 | Lilly | Jan 19 | Jan 19 | 1  |
 |              | S4T2 - UI Coding | 1 | Amee | Jan 19 | Jan 19 | 1  |
 | S6           | S6T1 - UI/UX flow design | 3 | Nick, Han | | | |
