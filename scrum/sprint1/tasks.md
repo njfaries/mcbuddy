@@ -21,10 +21,10 @@
 |                   | SMT7 - week 3 task list update            | 2 | Ryan                | | | |
 |                   | SMT8 - week 3 compilation                 | 2 | Ryan                | | | |
 |                   | SMT9 - ending compilation                 | 2 | Ryan                | | | |
-|                   | SMT10 - week 1 misc tasks                 | 2 | Ryan                | | | |
-|                   | SMT11 - week 2 misc tasks                 | 2 | Ryan                | | | |
-|                   | SMT12 - week 3 misc tasks                 | 2 | Ryan                | | | |
-|                   | SMT13 - week 1 - restructure              | 3 | Ryan                | Jan 22 | | |
+|                   | SMT10 - week 1 other SM tasks             | 2 | Ryan                | | | |
+|                   | SMT11 - week 2 other SM tasks             | 2 | Ryan                | | | |
+|                   | SMT12 - week 3 other SM tasks             | 2 | Ryan                | | | |
+|                   | SMT13 - week 1 restructure                | 3 | Ryan                | Jan 22 | Jan 23 | 2 |
 | Git               | GT1 - week 1 git maintenance              | 1 | Lilly               | | | |
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | | | |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | | | |
@@ -40,7 +40,7 @@
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
 |                   | UIMT1 - S10 - UI Mockup                   | 2 | Phil                | | | |
 |                   | UIMT2 - S10 - UI static examples          | 2 | Phil, Han           | | | |
-| Messaging mockups | MMT1 - S08 - UI/UX research (Quickblocks) | 1 | Phil, Amee          | | | |
+| Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | | | |
 |                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | | | |
 |                   | MMT3 - S08 - UI Mockups                   | 1 | Phil, Amee          | | | |
 |                   | MMT4 - S08 - UI static examples           | 2 | Phil, Amee          | | | |
