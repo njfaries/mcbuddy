@@ -64,3 +64,11 @@ input[type=text]:focus {
 input[type=password]:focus {
 	border-color:#333; 
 }
+
+.hidden {
+	display:none;
+}
+
+.visible {
+	display:inline;
+}
