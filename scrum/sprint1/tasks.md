@@ -5,24 +5,9 @@
 
 | Story        | Task             | Effort Estimate (hours) | Person(s) Assigned | Start Date | End Date | Actual Effort |
 | -----------: | :--------------- | :---------------------: | :----------------: | :--------: | :------: | :-----------: |
-<<<<<<< Updated upstream
-| S2           | S2T1 - mockup/static integration | 4 | | | | |
-| S3           | S3T1 - UI Mockup | 3 | Lilly |Jan 20 | Jan 22|3|
-|              | S3T2 - UI Coding | 3 | Amee | Jan 21 | Jan 23 | 3 |
-| S4           | S3T1 - UI Mockup | 1 | Lilly | Jan 19 | Jan 19 | 1  |
-|              | S4T2 - UI Coding | 1 | Amee | Jan 19 | Jan 19 | 1  |
-| S6           | S6T1 - UI/UX flow design | 3 | Nick, Han | | | |
-|              | S6T2 - UI Mockups | 2 | Nick, Han | | | |
-|              | S6T3 - UI static examples | 2 | Nick, Han | | | |
-| S8           | S8T1 - UI/UX research (Quickblocks) | 1  | Phil, Amee | | | |
-|              | S8T2 - UI/UX flow design | 3 | Phil, Amee | | | |
-|              | S8T3 - UI Mockups | 1  | Phil, Amee | | | |
-|              | S8T4 - UI static examples | 2 | Phil, Amee | | | |
-| S9           | S9T1 - UI research/mockup/example | 1 | Amee | Jan 22 | Jan 22 | 1 |
-=======
 | S2           | S02T1 - mockup/static integration | 4 | | | | |
 | S3           | S03T1 - UI Mockup | 3 | Lilly |Jan 20 | Jan 22| 3 |
-|              | S03T2 - UI Coding | 3 | Amee | | | |
+|              | S03T2 - UI Coding | 3 | Amee | Jan 21 | Jan 23 | 3 |
 |              | S03T3 - integration | 2 | Nathaniel | | | |
 | S4           | S04T1 - UI Mockup | 1 | Lilly | Jan 19 | Jan 19 | 1  |
 |              | S04T2 - UI Coding | 1 | Amee | Jan 19 | Jan 19 | 1  |
@@ -36,7 +21,6 @@
 |              | S08T3 - UI Mockups | 1  | Phil, Amee | | | |
 |              | S08T4 - UI static examples | 2 | Phil, Amee | | | |
 | S9           | S09T1 - UI research/mockup/example | 1 | Amee | Jan 22 | Jan 22 | 1 |
->>>>>>> Stashed changes
 | S10          | S10T1 - UI Mockup | 2 | Phil | | | |
 |              | S10T2 - UI static examples | 2 | Phil, Han | | | |
 | S31          | S31T1 - UI research | 2 | Nick | | | |
