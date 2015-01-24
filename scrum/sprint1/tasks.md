@@ -25,8 +25,8 @@
 |                   | SMT11 - week 2 other SM tasks             | 2 | Ryan                | | | |
 |                   | SMT12 - week 3 other SM tasks             | 2 | Ryan                | | | |
 |                   | SMT13 - week 1 restructure                | 3 | Ryan                | Jan 22 | Jan 23 | 2 |
-|                   | SMT14 - documentation help                | 2 | Lilly, Yuechuan     | | | |
-| Git               | GT1 - week 1 git maintenance              | 1 | Lilly               | | | |
+|                   | SMT14 - documentation help                | 2 | Lilly, Yuechuan     | Jan 19|Jan 24 |3 |
+| Git               | GT1 - week 1 git maintenance              | 1 | Lilly               | Jan 19|Jan 24 |1 |
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | | | |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
