@@ -36,7 +36,7 @@
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
 |                   | BET5 - QB instant message research        | 2 | Yuechuan            | | | |
 |                   | BET5 - account verification research      | 5 | Nathaniel           | | | |
-| UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | | | |
+| UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | | |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | | | |
 |                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | | | |
 |                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | | | |
