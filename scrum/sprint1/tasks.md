@@ -53,7 +53,7 @@
 
 | Person | Estimated Hours | Actual Hours |
 | :----: | :-------------: | :----------: |
-| Amee   | 11 |
+| Amee   | 12 |
 | Carl   | 12 |
 | Han    | 11 |
 | Lilly  | 12 |
