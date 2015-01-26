@@ -19,24 +19,3 @@ Alphabetical, by surname:
 ## Development Setup
 
     TODO
-
-## Sprints
-### Sprint 1
-
-Roles:
-
-* *Scrum Master*: Ryan
-* *Git Maintainer*: Lilly
-* *Document Maintainer*: Lilly
-* *Recorder*: Han
-
-Sub-Teams:
-
-| Front-End | Back-End |
-| :-------: | :------: |
-| Amee | Ryan |
-| Han | Carl |
-| Lilly | Nathaniel |
-| Nicholas | Yuechuan |
-| Phillip | |
-
