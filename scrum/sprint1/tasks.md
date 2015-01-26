@@ -16,13 +16,13 @@
 |                   | SMT2 - week 1 BE task list creation       | 1 | Ryan                | Jan 22 | Jan 23 | 1 |
 |                   | SMT3 - week 1 misc task list creation     | 1 | Ryan                | Jan 22 | Jan 23 | 2 |
 |                   | SMT4 - week 1 compilation                 | 2 | Ryan                | Jan 24 | Jan 25 | 2 |
-|                   | SMT5 - week 2 task list update            | 2 | Ryan                | | | |
+|                   | SMT5 - week 2 task list update            | 2 | Ryan                | Jan 26 | | |
 |                   | SMT6 - week 2 compilation                 | 2 | Ryan                | | | |
 |                   | SMT7 - week 3 task list update            | 2 | Ryan                | | | |
 |                   | SMT8 - week 3 compilation                 | 2 | Ryan                | | | |
 |                   | SMT9 - ending compilation                 | 2 | Ryan                | | | |
 |                   | SMT10 - week 1 other SM tasks             | 2 | Ryan                | Jan 19 | Jan 24 | 2 |
-|                   | SMT11 - week 2 other SM tasks             | 2 | Ryan                | | | |
+|                   | SMT11 - week 2 other SM tasks             | 2 | Ryan                | Jan 26 | | |
 |                   | SMT12 - week 3 other SM tasks             | 2 | Ryan                | | | |
 |                   | SMT13 - week 1 tasks restructure          | 3 | Ryan                | Jan 22 | Jan 23 | 2 |
 |                   | SMT14 - documentation help                | 2 | Lilly               | Jan 19 | Jan 24 | 2 |
@@ -37,9 +37,9 @@
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
 |                   | BET5 - QB instant message research        | 2 | Yuechuan            | | | |
 |                   | BET5 - account verification research      | 5 | Nathaniel           | | | |
-| UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 25 | 2 |
-|                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 25 | 1 |
-|                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 25 | |
+| UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
+|                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
+|                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | |
 |                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | | | |
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
 |                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | | | |
