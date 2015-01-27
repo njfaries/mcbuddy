@@ -5,3 +5,4 @@
 * Research on using promises to chain callbacks
 * CI server
 * Testing app, staging app, prod app
+* HTML preprocessor/templating for linking scripts and reducing boilerplate
