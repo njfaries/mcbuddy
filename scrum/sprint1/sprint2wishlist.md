@@ -1,0 +1,7 @@
+###Carl
+
+* TypeScript wrapper for Quickblox
+* Research on using Facebook instead of Quickblox
+* Research on using promises to chain callbacks
+* CI server
+* Testing app, staging app, prod app
