@@ -1,0 +1,51 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position:right;
+  background-color: #BC0000;
+  padding: 0%;
+  margin-left: 0%;
+}
+
+.jumbotron .container {
+  position: relative;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0%;
+  padding-right: 0%;
+  width:100%;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+div.image {
+	height:500px;
+	width:60%;
+	float:left;
+	background-image:url('../img/buddy.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	bottom: 50%;
+}
