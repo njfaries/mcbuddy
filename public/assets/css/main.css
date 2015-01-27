@@ -44,7 +44,7 @@ div.image {
 	height:500px;
 	width:60%;
 	float:left;
-	background-image:url('buddy.jpg');
+	background-image:url('../img/buddy.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	bottom: 50%;

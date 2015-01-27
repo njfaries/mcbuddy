@@ -48,7 +48,7 @@
 }
 
 body {
- background-image:url('buddy.jpg');
+ background-image:url('../img/buddy.jpg');
  background-repeat: no-repeat;
  background-position: center;
 }
