@@ -31,7 +31,7 @@
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | Jan 26 | Jan 30 | 1 |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
-| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | | |
+| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | Feb 1  | 3 |
 |                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | | | |
 |                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | | |
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
