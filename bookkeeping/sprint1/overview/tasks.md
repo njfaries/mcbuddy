@@ -31,16 +31,16 @@
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | Jan 26 | Jan 30 | 1 |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
-| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | | | |
+| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | | |
 |                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | | | |
-|                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | | | |
+|                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | | |
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
 |                   | BET5 - QB instant message research        | 2 | Yuechuan            | | | |
-|                   | BET5 - account verification research      | 5 | Nathaniel           | | | |
+|                   | BET5 - account verification research      | 5 | Nathaniel           | Jan 27 | | |
 | UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
 |                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | 2 |
-|                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | Jan 28| | |
+|                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | Jan 28 | | |
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
 |                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | | | |
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           |Jan 28 | | |
@@ -58,7 +58,7 @@
 | Carl      | 12        | 0  |
 | Han       | 11        | 0  |
 | Lilly     | 12        | 7  |
-| Nathaniel | 12        | 0  |
+| Nathaniel | 12        | 4  |
 | Nick      | 11        | 0  |
 | Ryan      | 24        | 10 |
 | Yuechuan  | 12        | 0  |
