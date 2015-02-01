@@ -39,11 +39,11 @@
 |                   | BET5 - account verification research      | 5 | Nathaniel           | | | |
 | UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
-|                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | |
-|                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | | | |
+|                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | 2 |
+|                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | Jan 28| | |
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
 |                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | | | |
-|                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | | | |
+|                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           |Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
 | Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | | | |
 |                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | | | |
