@@ -28,7 +28,7 @@
 |                   | SMT14 - documentation help                | 2 | Lilly               | Jan 19 | Jan 24 | 2 |
 |                   | SMT15 - documentation help                | 1 | Yuechuan            | Jan 19 | | |
 | Git               | GT1 - week 1 git maintenance              | 1 | Lilly               | Jan 19 | Jan 24 | 1 |
-|                   | GT2 - week 2 git maintenance              | 1 | Lilly               | | | |
+|                   | GT2 - week 2 git maintenance              | 1 | Lilly               | Jan 26 | Jan 30 | 1 |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
 | Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | | | |
