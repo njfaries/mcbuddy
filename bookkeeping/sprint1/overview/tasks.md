@@ -31,7 +31,7 @@
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | Jan 26 | Jan 30 | 1 |
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | Feb 02 | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
-| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | Jan 27  | 3 |
+| Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | Jan 27 | 3 |
 |                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | Feb 03 | Feb 03 | 4 |
 |                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | Feb 02 | 2 |
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
@@ -45,15 +45,15 @@
 |                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | Jan 29 | | 1 |
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
-|                   | UIMT9 - html / css learning               | 9 | Nick,Han,Amee       | Jan 31 |  | 3 |
-| Messaging mockups | MMT1 A - S08 - UI/UX research             | 1 | Phil                | Feb 02 | Feb 02 | 1 |
-|                   | MMT1 B - S08 - UI/UX research             | 1 | Amee                | Feb 02 | Feb 02 | 1 |
-|                   | MMT2 A - S08 - UI/UX flow design          | 3 | Phil                | Feb 02 | Feb 02 | 1 |
-|                   | MMT2 B - S08 - UI/UX flow design          | 3 | Amee                | Feb 02 | Feb 02 | 2 |
-|                   | MMT3 A - S08 - UI Mockups                 | 1 | Phil                | | | |
-|                   | MMT3 B - S08 - UI Mockups                 | 1 | Amee                | Feb 02 | Feb 02 | 1 |
-|                   | MMT4 A - S08 - UI static examples         | 2 | Phil                | Feb 02 | Feb 03 | 2 |
-|                   | MMT4 B - S08 - UI static examples         | 2 | Amee                | Feb 02 | Feb 03 | 5 |
+|                   | UIMT9 - html / css learning               | 9 | Nick, Han, Amee     | Jan 31 | Jan 31 | 3 |
+| Messaging mockups | MMT1A - S08 - UI/UX research              | 1 | Phil                | Feb 02 | Feb 02 | 1 |
+|                   | MMT1B - S08 - UI/UX research              | 1 | Amee                | Feb 02 | Feb 02 | 1 |
+|                   | MMT2A - S08 - UI/UX flow design           | 3 | Phil                | Feb 02 | Feb 02 | 1 |
+|                   | MMT2B - S08 - UI/UX flow design           | 3 | Amee                | Feb 02 | Feb 02 | 2 |
+|                   | MMT3A - S08 - UI Mockups                  | 1 | Phil                | Feb 02 | Feb 02 | 0 |
+|                   | MMT3B - S08 - UI Mockups                  | 1 | Amee                | Feb 02 | Feb 02 | 1 |
+|                   | MMT4A - S08 - UI static examples          | 2 | Phil                | Feb 02 | Feb 03 | 2 |
+|                   | MMT4B - S08 - UI static examples          | 2 | Amee                | Feb 02 | Feb 03 | 5 |
 
 ## Task Allocation
 
@@ -68,7 +68,7 @@
 | Phil      | 11        | 3             | 2              |
 | Ryan      | 24        | 10            | 3              |
 | Yuechuan  | 12        | 0             | 8              |
-| **TOTAL** | 119       | 22            | 29             |
+| **TOTAL** | 119       | 22            | 31             |
 
 
 ## Sprint 1 Meetings
