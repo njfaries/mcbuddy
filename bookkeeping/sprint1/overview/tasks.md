@@ -42,14 +42,14 @@
 |                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | 2 |
 |                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | Jan 28 | | |
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
-|                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | | | |
+|                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | Jan 29 | | 1 |
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
 |                   | UIMT9 - html / css learning               | 9 | Nick,Han,Amee       | Jan 31 |  | 3 |
-| Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | Feb 02 | Feb 02 | 1 |
-|                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | Feb 02 | Feb 02 | 2 |
+| Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | Feb 02 | Feb 02 | 2 |
+|                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | Feb 02 | Feb 02 | 4 |
 |                   | MMT3 - S08 - UI Mockups                   | 1 | Phil, Amee          | | | |
-|                   | MMT4 - S08 - UI static examples           | 2 | Phil, Amee          | Feb 02 | Feb 03 | 5 |
+|                   | MMT4 - S08 - UI static examples           | 2 | Phil, Amee          | Feb 02 | Feb 03 | 7 |
 
 ## Task Allocation
 
@@ -61,7 +61,7 @@
 | Lilly     | 12        | 7             | 1              |
 | Nathaniel | 12        | 4             | 3              |
 | Nick      | 14        | 0             | 8              |
-| Phil      | 11        | 0             | 0              |
+| Phil      | 11        | 3             | 2              |
 | Ryan      | 24        | 10            | 3              |
 | Yuechuan  | 12        | 0             | 8              |
 | **TOTAL** | 119       | 22            | 29             |
