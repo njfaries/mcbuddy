@@ -32,10 +32,10 @@
 |                   | GT3 - week 3 git maintenance              | 1 | Lilly               | Feb 02 | | |
 |                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | | | |
 | Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | Jan 27  | 3 |
-|                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | | | |
-|                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | | |
+|                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | Feb 03 | Feb 03 | 4 |
+|                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | Feb 02 | 2 |
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
-|                   | BET5 - QB instant message research        | 2 | Yuechuan            | | | |
+|                   | BET5 - QB instant message research        | 2 | Yuechuan            | Feb 03| Feb 03 | 2 |
 |                   | BET5 - account verification research      | 5 | Nathaniel           | Jan 27 | | |
 | UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
@@ -63,8 +63,8 @@
 | Nick      | 14        | 0             | 8              |
 | Phil      | 11        | 0             | 0              |
 | Ryan      | 24        | 10            | 3              |
-| Yuechuan  | 12        | 0             | 0              |
-| **TOTAL** | 119       | 22            | 21             |
+| Yuechuan  | 12        | 0             | 8              |
+| **TOTAL** | 119       | 22            | 29             |
 
 
 ## Sprint 1 Meetings
