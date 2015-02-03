@@ -46,10 +46,10 @@
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
 |                   | UIMT9 - html / css learning               | 9 | Nick,Han,Amee       | Jan 31 |  | 3 |
-| Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | | | |
-|                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | | | |
+| Messaging mockups | MMT1 - S08 - UI/UX research               | 1 | Phil, Amee          | Feb 02 | Feb 02 | 1 |
+|                   | MMT2 - S08 - UI/UX flow design            | 3 | Phil, Amee          | Feb 02 | Feb 02 | 2 |
 |                   | MMT3 - S08 - UI Mockups                   | 1 | Phil, Amee          | | | |
-|                   | MMT4 - S08 - UI static examples           | 2 | Phil, Amee          | | | |
+|                   | MMT4 - S08 - UI static examples           | 2 | Phil, Amee          | Feb 02 | Feb 03 | 5 |
 
 ## Task Allocation
 
