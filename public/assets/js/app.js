@@ -12,7 +12,7 @@ var CONFIG = {
 
 function shittyDebugCallback(err, result) {
     if(err) alert("Error: " + err);
-    if(result) console.log("Result: " + result);
+    if(result) console.dir("Result: " + result);
 }
 
 QB.init(CONFIG.appID, CONFIG.authKey, CONFIG.authSecret, CONFIG.debug);
@@ -22,7 +22,7 @@ function scrapeForm(form) {
     var info = {};
 
     $(form)
-    .children("input[type!='submit']")
+    .find("input[type!='submit']")
     .each(function(i, v) {
         info[$(v).attr("name")] = $(v).val();
     });
