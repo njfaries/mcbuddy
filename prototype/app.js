@@ -1,3 +1,5 @@
+"use strict";
+
 var CONFIG = {
     appID : 18326,
     authKey : "Wcju7OUTLFgu7TU",
@@ -8,27 +10,42 @@ var CONFIG = {
     }
 }
 
+function shittyDebugCallback(err, result) {
+    if(err) alert("Error: " + err);
+    if(result) console.log("Result: " + result);
+}
+
 QB.init(CONFIG.appID, CONFIG.authKey, CONFIG.authSecret, CONFIG.debug);
+QB.createSession(function(err, result) {shittyDebugCallback});
+
+function scrapeForm(form) {
+    var info = {};
+
+    $(form)
+    .children("input[type!='submit']")
+    .each(function(i, v) {
+        info[$(v).attr("name")] = $(v).val();
+    });
+    return info;
+};
+
+function logOut() {
+    QB.destroySession(shittyDebugCallback);
+    QB.createSession(function(err, result) {shittyDebugCallback});
+};
 
 $("#registrationForm").submit(function(evt) {
 	evt.preventDefault();
-    var info = {};
-    
-    $(this)
-    .children("input[type!='submit']")
-    .map(function(i, v) {
-        info[$(v).attr("name")] = $(v).val();
-    });
-        
-	console.log(info);
+    var info = scrapeForm(this);
+    // TODO check if session is valid
+
+    QB.users.create(info, shittyDebugCallback);
 });
 
-QB.createSession(function(err, result) {
-    var params = {login: 'garry', password: 'garry5santos'};
+$("#loginForm").submit(function(evt) {
+    evt.preventDefault();
+    var info = scrapeForm(this);
+    // TODO check if session is valid
 
-    if(false)
-    QB.users.create(params, function(err, result) {
-        if(err) console.log("Error: " + err);
-	if(result) console.log("Result: " + result);
-    });
+    QB.login(info, shittyDebugCallback);
 });
