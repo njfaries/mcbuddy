@@ -1,9 +1,9 @@
 "use strict";
 
 var CONFIG = {
-    appID : 18326,
-    authKey : "Wcju7OUTLFgu7TU",
-    authSecret : "Tv8LburBeZtuCzz",
+    appID : 19286,
+    authKey : "DwbDzOcrS28uXGj",
+    authSecret : "EO9Y9Eq82QA8MPT",
     debug : {
         ssl: false,
         debug: true
