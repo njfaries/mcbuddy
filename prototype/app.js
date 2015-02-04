@@ -12,13 +12,14 @@ QB.init(CONFIG.appID, CONFIG.authKey, CONFIG.authSecret, CONFIG.debug);
 
 $("#registrationForm").submit(function(evt) {
 	evt.preventDefault();
-	var info = 
-		$(this)
-		.children("input[type!='submit']")
-		.map(function(i, v) {
-			return { name : $(v).attr("name"), value : $(v).val() };
-		})
-		.get();
+    var info = {};
+    
+    $(this)
+    .children("input[type!='submit']")
+    .map(function(i, v) {
+        info[$(v).attr("name")] = $(v).val();
+    });
+        
 	console.log(info);
 });
 
