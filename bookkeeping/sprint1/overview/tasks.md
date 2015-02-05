@@ -35,17 +35,17 @@
 |                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | Feb 03 | Feb 03 | 4 |
 |                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | Feb 02 | 2 |
 |                   | BET4 - page deployment research           | 3 | Carl                | | | |
-|                   | BET5 - QB instant message research        | 2 | Yuechuan            | Feb 03| Feb 03 | 2 |
+|                   | BET5 - QB instant message research        | 2 | Yuechuan            | Feb 03 | Feb 03 | 2 |
 |                   | BET5 - account verification research      | 5 | Nathaniel           | Jan 27 | | |
 | UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
 |                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | 2 |
 |                   | UIMT4 - S06 - UI static examples          | 2 | Nick, Han           | Jan 28 | | |
 |                   | UIMT5 - S09 - UI research/mockup/example  | 1 | Amee                | Jan 22 | Jan 22 | 1 |
-|                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | Jan 29 | | 1 |
+|                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | Jan 29 | Feb 03 | 1 |
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
-|                   | UIMT9 - html / css learning               | 9 | Nick, Han, Amee     | Jan 31 | Jan 31 | 3 |
+|                   | UIMT9 - html / css learning               | 3 | Nick, Han, Amee     | Jan 31 | Jan 31 | 3 |
 | Messaging mockups | MMT1A - S08 - UI/UX research              | 1 | Phil                | Feb 02 | Feb 02 | 1 |
 |                   | MMT1B - S08 - UI/UX research              | 1 | Amee                | Feb 02 | Feb 02 | 1 |
 |                   | MMT2A - S08 - UI/UX flow design           | 3 | Phil                | Feb 02 | Feb 02 | 1 |
