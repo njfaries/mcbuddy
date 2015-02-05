@@ -46,6 +46,6 @@ $("#loginForm").submit(function(evt) {
     evt.preventDefault();
     var info = scrapeForm(this);
     // TODO check if session is valid
-
+    
     QB.login(info, shittyDebugCallback);
 });
