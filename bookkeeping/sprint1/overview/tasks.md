@@ -68,15 +68,15 @@ Week definitions:
 | Person    | Estimated | Week 1 Actual | Week 2 Actual  | Week 3 Actual | Sprint Actual Hours |
 | :-------: | :-------: | :-----------: | :------------: | :-----------: | :-----------------: |
 | Amee      | 12        | 5             | 4              | 5             |
-| Carl      | 12        | 0             | 3              | 10            |
+| Carl      | 12        | 0             | 3              | 12            |
 | Han       | 11        | 0             | 6              | 0             |
 | Lilly     | 12        | 7             | 1              | 0             |
-| Nathaniel | 12        | 0             | 5              | 0             |
+| Nathaniel | 12        | 0             | 5              | 6             |
 | Nick      | 14        | 0             | 8              | 0             |
 | Phil      | 11        | 0             | 4              | 1             |
 | Ryan      | 24        | 10            | 3              | 2             |
-| Yuechuan  | 12        | 0             | 2              | 8             |
-| **TOTAL** | 119       | 22            | 36             | 26            |
+| Yuechuan  | 12        | 0             | 2              | 10            |
+| **TOTAL** | 119       | 22            | 36             | 36            |
 
 
 ## Sprint 1 Meetings
