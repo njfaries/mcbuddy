@@ -7,11 +7,11 @@
 | :---------------: | :---------------------------------------- | :---------------------: | :----------------: | :--------: | :------: | :-----------: |
 | S3 - Registration | S03T1 - UI Mockup                         | 3 | Lilly               | Jan 20 | Jan 22 | 3 |
 |                   | S03T2 - UI Coding                         | 3 | Amee                | Jan 21 | Jan 23 | 3 |
-|                   | S03T3 - integration                       | 2 | Nathaniel           | | | |
+|                   | S03T3 - integration                       | 2 | Nathaniel           | Feb 04 | Feb 04 | 2 |
 | S4 - log in       | S04T1 - UI Mockup                         | 1 | Lilly               | Jan 19 | Jan 19 | 1 |
 |                   | S04T2 - UI Coding                         | 1 | Amee                | Jan 19 | Jan 19 | 1 |
 |                   | S04T3 - integration                       | 1 | Carl, Yuechuan      | Feb 03 | Feb 03 | 2 |
-| S5 - log out      | S05T1 - logout integration                | 1 | Carl, Yuechuan      | | | |
+| S5 - log out      | S05T1 - logout integration                | 1 | Carl, Yuechuan      | Feb 04 | Feb 04 | 2 |
 | Scrum Master      | SMT1 - week 1 UI task list creation       | 1 | Ryan                | Jan 22 | Jan 22 | 1 |
 |                   | SMT2 - week 1 BE task list creation       | 1 | Ryan                | Jan 22 | Jan 23 | 1 |
 |                   | SMT3 - week 1 misc task list creation     | 1 | Ryan                | Jan 22 | Jan 23 | 2 |
@@ -36,7 +36,7 @@
 |                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | Feb 02 | 2 |
 |                   | BET4 - page deployment research           | 3 | Carl                | Jan 27 | Feb 05 | 4 |
 |                   | BET5 - QB instant message research        | 2 | Yuechuan            | Feb 03 | Feb 03 | 2 |
-|                   | BET5 - account verification research      | 5 | Nathaniel           | Jan 27 | | |
+|                   | BET5 - account verification research      | 5 | Nathaniel           | Jan 27 | Feb 04 | 4 |
 | UI Misc           | UIMT1 - S31 - UI research                 | 2 | Nick                | Jan 25 | Jan 26 | 2 |
 |                   | UIMT2 - S06 - UI/UX flow design           | 3 | Nick, Han           | Jan 25 | Jan 26 | 1 |
 |                   | UIMT3 - S06 - UI Mockups                  | 2 | Nick, Han           | Jan 25 | Jan 26 | 2 |
