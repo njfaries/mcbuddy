@@ -40,6 +40,8 @@ $("#registrationForm").submit(function(evt) {
     // TODO check if session is valid
 
     QB.users.create(info, shittyDebugCallback);
+    QB.login(info, shittyDebugCallback);
+    window.location.href = "/profile.html";
 });
 
 $("#loginForm").submit(function(evt) {
@@ -48,4 +50,5 @@ $("#loginForm").submit(function(evt) {
     // TODO check if session is valid
     
     QB.login(info, shittyDebugCallback);
+    window.location.href = "/profile.html";
 });
