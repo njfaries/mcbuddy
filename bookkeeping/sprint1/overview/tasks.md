@@ -8,9 +8,9 @@
 | S3 - Registration | S03T1 - UI Mockup                         | 3 | Lilly               | Jan 20 | Jan 22 | 3 |
 |                   | S03T2 - UI Coding                         | 3 | Amee                | Jan 21 | Jan 23 | 3 |
 |                   | S03T3 - integration                       | 2 | Nathaniel           | | | |
-| S4 - log in       | S04T1 - UI Mockup                         | 1 | Lilly               | Jan 19 | Jan 19 | 1  |
-|                   | S04T2 - UI Coding                         | 1 | Amee                | Jan 19 | Jan 19 | 1  |
-|                   | S04T3 - integration                       | 1 | Carl, Yuechuan      | Feb 3  | Feb 3  | 2  |
+| S4 - log in       | S04T1 - UI Mockup                         | 1 | Lilly               | Jan 19 | Jan 19 | 1 |
+|                   | S04T2 - UI Coding                         | 1 | Amee                | Jan 19 | Jan 19 | 1 |
+|                   | S04T3 - integration                       | 1 | Carl, Yuechuan      | Feb 03 | Feb 03 | 2 |
 | S5 - log out      | S05T1 - logout integration                | 1 | Carl, Yuechuan      | | | |
 | Scrum Master      | SMT1 - week 1 UI task list creation       | 1 | Ryan                | Jan 22 | Jan 22 | 1 |
 |                   | SMT2 - week 1 BE task list creation       | 1 | Ryan                | Jan 22 | Jan 23 | 1 |
@@ -18,7 +18,7 @@
 |                   | SMT4 - week 1 compilation                 | 2 | Ryan                | Jan 24 | Jan 25 | 2 |
 |                   | SMT5 - week 2 task list update            | 2 | Ryan                | Jan 26 | Feb 01 | 1 |
 |                   | SMT6 - week 2 compilation                 | 2 | Ryan                | Feb 01 | Feb 01 | 1 |
-|                   | SMT7 - week 3 task list update            | 2 | Ryan                | Feb 02 | | |
+|                   | SMT7 - week 3 task list update            | 2 | Ryan                | Feb 02 | Feb 06 | 2 |
 |                   | SMT8 - week 3 compilation                 | 2 | Ryan                | | | |
 |                   | SMT9 - ending compilation                 | 2 | Ryan                | | | |
 |                   | SMT10 - week 1 other SM tasks             | 2 | Ryan                | Jan 19 | Jan 24 | 2 |
@@ -57,18 +57,26 @@
 
 ## Task Allocation
 
+Week definitions:
+
+* Week 1 - 19 Jan - 25 Jan (adjusted for beginning of sprint delay)
+
+* Week 2 - 26 Jan - 02 Feb
+
+* Week 3 - 03 Feb - 08 Feb
+
 | Person    | Estimated | Week 1 Actual | Week 2 Actual  | Week 3 Actual | Sprint Actual Hours |
 | :-------: | :-------: | :-----------: | :------------: | :-----------: | :-----------------: |
-| Amee      | 12        | 5             | 0              |
-| Carl      | 12        | 0             | 3              |
-| Han       | 11        | 0             | 3              |
-| Lilly     | 12        | 7             | 1              |
-| Nathaniel | 12        | 4             | 3              |
-| Nick      | 14        | 0             | 8              |
-| Phil      | 11        | 3             | 2              |
-| Ryan      | 24        | 10            | 3              |
-| Yuechuan  | 12        | 0             | 8              |
-| **TOTAL** | 119       | 22            | 31             |
+| Amee      | 12        | 5             | 4              | 5             |
+| Carl      | 12        | 0             | 3              | 10            |
+| Han       | 11        | 0             | 6              | 0             |
+| Lilly     | 12        | 7             | 1              | 0             |
+| Nathaniel | 12        | 0             | 5              | 0             |
+| Nick      | 14        | 0             | 8              | 0             |
+| Phil      | 11        | 0             | 4              | 1             |
+| Ryan      | 24        | 10            | 3              | 2             |
+| Yuechuan  | 12        | 0             | 2              | 8             |
+| **TOTAL** | 119       | 22            | 36             | 26            |
 
 
 ## Sprint 1 Meetings
@@ -87,16 +95,12 @@ Completed:
 
 * Thursday 29 January - TA meeting 2 - Ryan
 
-Planned:
-
 * Thursday 5 February - TA meeting 3 - Ryan
 
-* TBA - UI/BE integration meeting (with SM Ryan present if necessary)
+Planned:
 
-* TBA - sprint 2 SM and sprint 1 SM (Ryan) meeting - deliverables, what to do, etc.
+* Saturday 07 February - sprint 2 SM (Amee) and sprint 1 SM (Ryan) meeting - deliverables, what to do, etc.
 
-* TBA - end-of-sprint meeting (entire team)
+* Friday 06 February - end-of-sprint meeting (entire team) [missing Amee, out of town]
 
-* TBA - end-of-sprint demo with TA
-
-* TBA - backlog meeting with new Scrum Master for Sprint 2
+* Thursday 12 February or Friday 13 February - end-of-sprint-1 demo with TA
