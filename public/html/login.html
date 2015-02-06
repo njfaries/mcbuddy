@@ -11,12 +11,17 @@
 			<center><div class="container">
 				<h1>McBuddy <img src="../img/mainPageMartlet.png"></h1>
 				<a href="loginfrench.html"><font style="text-decoration:underline;color:white; font-size:12px">Fran&ccedil;ais</a></font></center><br>
-				<center><p>USERNAME <input type="text" style="text-decoration:"></input>
-				<p><br>PASSWORD <input type="password"></input></p>
-				<a href="forgotpassword.html"><font style="text-decoration:underline; padding-right:60px; float:right; color:white; font-size:12px">FORGOT PASSWORD?</a></font><br>
-				<br><button style="background-color:transparent;" onclick="location.href='home.html'"><font style="font-size:20px; color:#fff;">LOGIN</button><br><br>
-				<button style="background-color:transparent;" onclick="location.href='register.html'">REGISTER</font></button><br>
+				<form id="loginForm">
+					<center><p>EMAIL<input type="text" name="email" style="text-decoration:"></input>
+					<p><br>PASSWORD<input type="password" name="password"></input></p>
+					<a href="forgotpassword.html"><font style="text-decoration:underline; padding-right:60px; float:right; color:white; font-size:12px">FORGOT PASSWORD?</a></font><br>
+					<br><font style="font-size:20px; color:#fff;"><input style="background-color:transparent;" type="submit" value="LOGIN"></input><br><br>
+					<button style="background-color:transparent;" onclick="location.href='register.html'">REGISTER</font></button><br>
+				</form>
 			</div>
 		</div>
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/quickblox.min.js"></script>
+	<script src="assets/js/app.js"></script>
 	</body>
 </html>
