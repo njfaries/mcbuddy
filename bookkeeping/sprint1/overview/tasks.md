@@ -45,7 +45,7 @@
 |                   | UIMT6 - S10 - UI Mockup                   | 2 | Phil                | Jan 29 | Feb 03 | 1 |
 |                   | UIMT7 - S10 - UI static examples          | 2 | Phil, Han           | Jan 28 | | |
 |                   | UIMT8 - additional UI Mockups             | 2 | Lilly, Nick, Han    | | | |
-|                   | UIMT9 - html / css learning               | 3 | Nick, Han, Amee     | Jan 31 | Jan 31 | 3 |
+|                   | UIMT9 - html / css learning               | 3 | Nick, Han, Amee     | Jan 31 | Jan 31 | 6 |
 | Messaging mockups | MMT1A - S08 - UI/UX research              | 1 | Phil                | Feb 02 | Feb 02 | 1 |
 |                   | MMT1B - S08 - UI/UX research              | 1 | Amee                | Feb 02 | Feb 02 | 1 |
 |                   | MMT2A - S08 - UI/UX flow design           | 3 | Phil                | Feb 02 | Feb 02 | 1 |
