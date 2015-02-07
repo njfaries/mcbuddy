@@ -29,8 +29,8 @@
 |                   | SMT15 - documentation help                | 1 | Yuechuan            | Jan 19 | Feb 06 | 0 |
 | Git               | GT1 - week 1 git maintenance              | 1 | Lilly               | Jan 19 | Jan 24 | 1 |
 |                   | GT2 - week 2 git maintenance              | 1 | Lilly               | Jan 26 | Jan 30 | 1 |
-|                   | GT3 - week 3 git maintenance              | 1 | Lilly               | Feb 02 | Feb 7|1 |
-|                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | Feb 06 | Feb 7|1 |
+|                   | GT3 - week 3 git maintenance              | 1 | Lilly               | Feb 02 | Feb 07 | 1 |
+|                   | GT4 - end-of-sprint git cleanup           | 1 | Lilly               | Feb 06 | Feb 07 | 1 |
 | Back-End          | BET1 - QB authentication research         | 3 | Carl, Nathaniel     | Jan 27 | Jan 27 | 3 |
 |                   | BET2 - QB sessions research               | 4 | Yuechuan, Carl      | Feb 03 | Feb 03 | 4 |
 |                   | BET3 - QB setup                           | 2 | Yuechuan, Nathaniel | Jan 27 | Feb 02 | 2 |
@@ -97,10 +97,10 @@ Completed:
 
 * Thursday 5 February - TA meeting 3 - Ryan
 
-Planned:
-
 * Saturday 07 February - sprint 2 SM (Amee) and sprint 1 SM (Ryan) meeting - deliverables, what to do, etc.
 
 * Friday 06 February - end-of-sprint meeting (entire team) [missing Amee, out of town]
+
+Planned:
 
 * Thursday 12 February or Friday 13 February - end-of-sprint-1 demo with TA
