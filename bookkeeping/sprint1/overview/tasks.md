@@ -19,11 +19,11 @@
 |                   | SMT5 - week 2 task list update            | 2 | Ryan                | Jan 26 | Feb 01 | 1 |
 |                   | SMT6 - week 2 compilation                 | 2 | Ryan                | Feb 01 | Feb 01 | 1 |
 |                   | SMT7 - week 3 task list update            | 2 | Ryan                | Feb 02 | Feb 06 | 2 |
-|                   | SMT8 - week 3 compilation                 | 2 | Ryan                | | | |
-|                   | SMT9 - ending compilation                 | 2 | Ryan                | | | |
+|                   | SMT8 - week 3 compilation                 | 2 | Ryan                | Feb 06 | Feb 08 | 1 |
+|                   | SMT9 - ending compilation                 | 2 | Ryan                | Feb 08 | Feb 08 | 1 |
 |                   | SMT10 - week 1 other SM tasks             | 2 | Ryan                | Jan 19 | Jan 24 | 2 |
 |                   | SMT11 - week 2 other SM tasks             | 2 | Ryan                | Jan 26 | Feb 01 | 1 |
-|                   | SMT12 - week 3 other SM tasks             | 2 | Ryan                | Feb 02 | | |
+|                   | SMT12 - week 3 other SM tasks             | 2 | Ryan                | Feb 02 | Feb 08 | 1 |
 |                   | SMT13 - week 1 tasks restructure          | 3 | Ryan                | Jan 22 | Jan 23 | 2 |
 |                   | SMT14 - documentation help                | 2 | Lilly               | Jan 19 | Jan 24 | 2 |
 |                   | SMT15 - documentation help                | 1 | Yuechuan            | Jan 19 | Feb 06 | 0 |
@@ -67,17 +67,20 @@ Week definitions:
 
 | Person    | Estimated | Week 1 Actual | Week 2 Actual  | Week 3 Actual | Sprint Actual Hours |
 | :-------: | :-------: | :-----------: | :------------: | :-----------: | :-----------------: |
-| Amee      | 12        | 5             | 4              | 5             |
-| Carl      | 12        | 0             | 3              | 12            |
-| Han       | 11        | 0             | 6              | 0             |
-| Lilly     | 12        | 7             | 1              | 0             |
-| Nathaniel | 12        | 0             | 5              | 6             |
-| Nick      | 14        | 0             | 8              | 0             |
-| Phil      | 11        | 0             | 4              | 1             |
-| Ryan      | 24        | 10            | 3              | 2             |
-| Yuechuan  | 12        | 0             | 2              | 10            |
-| **TOTAL** | 119       | 22            | 36             | 36            |
+| Amee      | 12        | 5             | 7              | 5             | 17                  |
+| Carl      | 12        | 0             | 3              | 12            | 15                  |
+| Han       | 11        | 0             | 6              | 0             | 6                   |
+| Lilly     | 12        | 7             | 1              | 2             | 10                  |
+| Nathaniel | 12        | 0             | 5              | 6             | 11                  |
+| Nick      | 14        | 0             | 8              | 2             | 10                  |
+| Phil      | 11        | 0             | 6              | 3             | 9                   |
+| Ryan      | 24        | 10            | 3              | 5             | 18                  |
+| Yuechuan  | 12        | 0             | 2              | 10            | 12                  |
+| **TOTAL** | **119**   | **22**        | **41**         | **45**        | **108**             |
 
+## Burndown
+
+![](./s1_burndown.png)
 
 ## Sprint 1 Meetings
 
@@ -100,7 +103,3 @@ Completed:
 * Saturday 07 February - sprint 2 SM (Amee) and sprint 1 SM (Ryan) meeting - deliverables, what to do, etc.
 
 * Friday 06 February - end-of-sprint meeting (entire team) [missing Amee, out of town]
-
-Planned:
-
-* Thursday 12 February or Friday 13 February - end-of-sprint-1 demo with TA
