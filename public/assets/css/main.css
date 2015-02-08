@@ -49,3 +49,17 @@ div.image {
 	background-repeat: no-repeat;
 	bottom: 50%;
 }
+
+.clear {
+  clear: both;
+}
+
+.buddyChoose {
+  height: 50%;
+  background-color: #FFAAAA;
+}
+
+.buddyDescription {
+  height: 50%;
+  background-color: #AAFFAA;
+}
