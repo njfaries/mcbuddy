@@ -5,6 +5,74 @@
 		<link rel="shortcut icon" href="/assets/img/martletimage.ico" />
 		<link rel="stylesheet" href="/assets/css/dashboard.css">
 		<link rel="stylesheet" href="/assets/css/choosebuddy.css">
+		<link rel="stylesheet" href="/assets/css/coverflow.css">
+
+		<!-- jQuery/jQueryUI (hosted) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.js"></script>
+
+		<!-- Optional: Reflection -->
+		<script type="text/javascript" src="/assets/js/reflection.js"></script>
+
+		<!-- Mousewheel -->
+		<script src="/assets/js/jquery.mousewheel.js"></script>
+
+		<!-- interpolate, depends on jQ 1.8.0+ -->
+		<script src="/assets/js/jquery.interpolate.js"></script>
+
+		<!-- Coverflow -->
+		<script src="/assets/js/jquery.coverflow.js"></script>
+
+		<script>
+			$(function() {
+
+				// Alphabet
+
+				$('.coverflow').coverflow();
+
+				$('#first').click(function() {
+					$('.coverflow').coverflow('index', 0);
+				});
+
+				$('#last').click(function() {
+					$('.coverflow').coverflow('index', -1);
+				});
+
+				/* CD covers */
+
+				if ($.fn.reflect) {
+					$('.photos .cover').reflect();
+				}
+
+				$('.photos').coverflow({
+					easing:			'easeOutElastic',
+					duration:		'slow',
+					index:			3,
+					width:			200,
+					height:			200,
+					visible:		'density',
+					selectedCss:	{	opacity: 1	},
+					outerCss:		{	opacity: .1	},
+					
+					confirm:		function() {
+						console.log('Confirm');
+					},
+
+					select:		function(event, cover) {
+						var img = $(cover).children().andSelf().filter('img').last();
+						$('#photos-name').text(img.data('name') || 'unknown');
+					}
+					
+				});	
+
+				$('#leakdetect').click(function() {
+					$('#leakbucket').empty();
+					for (var i = 0; i < 100; ++i) {
+						$('<div><div>test</div></div>').appendTo('#leakbucket').coverflow();
+					}
+				});
+			});
+		</script>
 		<title>McBuddy</title>
 		<style></style>
 	</head>
@@ -32,19 +100,22 @@
 				</nav>
 			</div>
 		</div>
-		<div class="clear">
 
 		<!--<div class="jumbotron msg" style="margin-top:0%; padding-top:0%;background-color:#BC0000">
 		</div>-->
-		<div>
-			<div class="buddyProfiles">
-				<img id="otherProfile" src="/assets/img/profilePicture.png" />
-				<img id="activeProfile" src="/assets/img/profilePicture.png" />
-				<img id="otherProfile" src="/assets/img/profilePicture.png" />
-			</div>
-			<div class="buddyDescription">
-				Maggy
-			</div>
+		<div class="photos">
+			<img class="cover" data-name="Han Yang Zhao" src="/assets/img/coverflowdemo/Han Yang Zhao.jpg"/>
+			<img class="cover" data-name="Nanthaniel Faries" src="/assets/img/coverflowdemo/Nanthaniel Faries.jpg"/>
+			<img class="cover" data-name="Ryan Ordille" src="/assets/img/coverflowdemo/Ryan Ordille.jpg"/>
+			<img class="cover" data-name="Lily Tong" src="/assets/img/coverflowdemo/Lily Tong.jpg"/>
+			<img class="cover" data-name="Nicolas Aird" src="/assets/img/coverflowdemo/Nicholas Aird.jpg"/>
+			<img class="cover" data-name="Philip Hoddinott" src="/assets/img/coverflowdemo/Philip Hoddinott.jpg"/>
+			<img class="cover" data-name="Carl Patenaude Poulin" src="/assets/img/coverflowdemo/Carl Patenaude Poulin.jpg"/>
+			<img class="cover" data-name="Mike Chen" src="/assets/img/coverflowdemo/Mike Chen.jpg"/>
+			
+		</div>
+		<div id="photos-info">
+			<div id="photos-name"></div>
 		</div>
 	</body>
 </html>
