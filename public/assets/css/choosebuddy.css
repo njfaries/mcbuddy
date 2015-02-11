@@ -4,29 +4,56 @@
     clear: both;
 }
 
-.buddyProfiles {
+.buddyProfile {
     text-align: center;
-    background-color: #FFAAAA;
+    margin: 50px 10px 10px 10px;
 }
 
+.buddyProfile > * {
+    margin: 0px 20px 0px 20px;
+    vertical-align: top;
+}
+
+/* Different coloring for schedule */
+.schedule {
+    background-color: #555;
+    color: white;
+    box-shadow: 0px 0px 20px #555;
+    text-shadow: none;
+    display: inline-block;
+}
+
+th {
+    width: 50px;
+}
+
+td div {
+    height: 20px;  /* Can't get smaller than 20px? */
+}
+
+.time {
+    font-size: 1em;
+}
+
+.timeCommonBusy {
+    background-color: #777;
+}
+
+.timeCommonFree {
+    background-color: #44CC44;
+}
+
+.timeBusy {
+    background-color: #AAA;
+}
+
+.timeNotCommon {
+    background-color: #CCC;
+}
+
+/* Buddy description */
 .buddyDescription {
-    text-align: center;
-    background-color: #AAFFAA;
-}
-
-.buddyProfiles img {
     display: inline-block;
-    margin: 20px;
-}
-
-#otherProfile {
-    display: inline-block;
-    height: 100px;
-    width: 100px;
-}
-
-#activeProfile {
-    display: inline-block;
-    height: 200px;
-    width: 200px;
+    background-color: #CCC;
+    width: 30%;
 }
