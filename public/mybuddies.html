@@ -39,7 +39,7 @@
 				});
 
 				/* CD covers */
-
+				
 				if ($.fn.reflect) {
 					$('.photos .cover').reflect();
 				}
@@ -78,7 +78,7 @@
 	</head>
 	<body>
 		<div class="jumbotron" style="padding-top:0%; margin-top:0%;">
-			<div class="container" style="width:100%; padding-bottom:0%; margin-bottom:0%;height:90px; padding-top:0%; margin-left:0%;">
+			<div class="container" style="width:100%; padding-bottom:0%; margin-bottom:0%;padding-top:0%; margin-left:0%;">
 				<div style="float:left; padding-left:2%; padding-top:0%; margin-top:0%; margin-left:0%;">
 					<h1 style="margin-top:0%; margin-left:0%;">McBuddy <img src="assets/img/martletimage.jpg"></h1>
 				</div>
@@ -100,6 +100,7 @@
 				</nav>
 			</div>
 		</div>
+		<div class="clear"></div>
 
 		<!--<div class="jumbotron msg" style="margin-top:0%; padding-top:0%;background-color:#BC0000">
 		</div>-->
@@ -119,7 +120,17 @@
 		<div id="photos-info">
 			<div id="photos-name"></div>
 		</div>
-		<div class="buddyProfile">
+
+		<!-- This is the current buddy's profile description -->
+		<div class="buddy-profile">
+			<!-- The schedule shows the times that you can meet up with
+				 this particular buddy. Every block of 30min is color
+				 coded depending on if you have the same breaks as this
+				 buddy.
+
+				 The schedule is just a table, were the <td> are colored
+				 according to the css.
+			-->
 			<table class="schedule">
 				<thead>
 					<tr>
@@ -133,173 +144,182 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td><span class="time">8:00</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">8:00</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">8:30</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">8:30</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">9:00</span></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
+						<td class="time">9:00</td>
+						<td class="time-common-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">9:30</span></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
+						<td class="time">9:30</td>
+						<td class="time-common-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">10:00</span></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonFree"></div></td>
+						<td class="time">10:00</td>
+						<td class="time-common-free"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-free"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-free"></td>
 					</tr>
 					<tr>
-						<td><span class="time">10:30</span></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
+						<td class="time">10:30</td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
 					</tr>
 					<tr>
-						<td><span class="time">11:00</span></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
+						<td class="time">11:00</td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
 					</tr>
 					<tr>
-						<td><span class="time">11:30</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">11:30</td>
+						<td class="time-busy"></td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">12:00</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">12:00</td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">12:30</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">12:30</td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">1:00</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">1:00</td>
+						<td class="time-busy"></td>
+						<td class="time-busy"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-busy"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">1:30</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonBusy"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">1:30</td>
+						<td class="time-busy"></td>
+						<td class="time-busy"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-busy"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">2:00</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">2:00</td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">2:30</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">2:30</td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">3:00</span></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeBusy"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeBusy"></div></td>
+						<td class="time">3:00</td>
+						<td class="time-busy"></td>
+						<td class="time-not-common"></td>
+						<td class="time-busy"></td>
+						<td class="time-common-free"></td>
+						<td class="time-busy"></td>
 					</tr>
 					<tr>
-						<td><span class="time">3:30</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">3:30</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-free"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">4:00</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeCommonFree"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">4:00</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-common-free"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">4:30</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">4:30</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
 					</tr>
 					<tr>
-						<td><span class="time">5:00</span></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
-						<td><div class="timeNotCommon"></div></td>
+						<td class="time">5:00</td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
+						<td class="time-not-common"></td>
 					</tr>
 				</tbody>
 			</table>
-			<div class="buddyDescription">
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey 
-				hey hey hey hey hey hey hey hey hey
+
+			<!-- This is the part to the right of the schedule that
+				 has the buddy's profile info (name, faculty, bio)
+			-->
+			<div class="buddy-description">
+				<div class="buddy-title">
+					Person Name<br>
+					Software Engineering
+				</div>
+				<span class="course-name">
+					ECSE 427<br>
+					ECSE 666
+				</span><br>
+				<br>
+				<div class="buddy-bio">
+					<p>Hi I'm a person and I like living. My hobbies
+					include breathing and moving. I once saw a rock.</p>
+					<p>I'm looking for a brocolli to study with in
+					ECSE 666 (devil worship) and ECSE 427 (sewing with
+					thread).</p>
+					<p>If you're interested, call me at my toll-free
+					number 1-800-I-LOVE-AS.
+				</div>
 			</div>
 		</div>
 	</body>

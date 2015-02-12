@@ -1,15 +1,19 @@
 
 
+* {
+    font-family: Ubuntu, sans-serif;
+}
+
 .clear {
     clear: both;
 }
 
-.buddyProfile {
+.buddy-profile {
     text-align: center;
-    margin: 50px 10px 10px 10px;
+    padding: 50px 10px 10px 10px;
 }
 
-.buddyProfile > * {
+.buddy-profile > * {
     margin: 0px 20px 0px 20px;
     vertical-align: top;
 }
@@ -27,7 +31,7 @@ th {
     width: 50px;
 }
 
-td div {
+td {
     height: 20px;  /* Can't get smaller than 20px? */
 }
 
@@ -35,25 +39,41 @@ td div {
     font-size: 1em;
 }
 
-.timeCommonBusy {
+.time-common-busy {
     background-color: #777;
 }
 
-.timeCommonFree {
+.time-common-free {
     background-color: #44CC44;
 }
 
-.timeBusy {
+.time-busy {
     background-color: #AAA;
 }
 
-.timeNotCommon {
+.time-not-common {
     background-color: #CCC;
 }
 
 /* Buddy description */
-.buddyDescription {
+.buddy-description {
     display: inline-block;
     background-color: #CCC;
     width: 30%;
+    text-align: left;
+    padding: 10px;
+}
+
+.buddy-title {
+    font-size: 2em;
+    color: #555;
+}
+
+.course-name {
+    font-size: 1.5em;
+    color: #44CC44;
+}
+
+.buddy-bio {
+
 }
