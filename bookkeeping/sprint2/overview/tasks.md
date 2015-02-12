@@ -7,7 +7,7 @@
 | :---------------: | :---------------------------------------- | :---------------------: | :----------------: | :--------: | :------: | :-----------: | 
 | S8 - Chat system  | S08T1 - fix static code                   | 3 | Phil                |  |  |  | 
 |                   | S08T2 - functionality                     | 8 | Phil,               |  |  |  | 
-| S10 - Chat system | S10T1 - edit profile research             | 2 | Nick                |  |  |  | 
+| S10 - Profile page| S10T1 - edit profile research             | 2 | Nick                |  |  |  | 
 |                   | S10T2 - edit profile mockup               | 1 | Nick                |  |  |  | 
 |                   | S10T3 - edit profile UI coding            | 3 | Han                 |  |  |  | 
 |                   | S10T4 - display profile research          | 2 | Han                 |  |  |  | 
