@@ -24,7 +24,9 @@
 |                   | UIMT3 - verification tools: implementation   | 2 | Carl                      |  |  |  |
 |                   | UIMT4 - build automation: research           | 2 | Carl                      |  |  |  |
 |                   | UIMT5 - build automation: implementation     | 2 | Carl                      |  |  |  |
-| Back-end          | BET1 - rails research                        | 3 | Nathaniel, Ryan, Yuechuan |  |  |  | 
+| Back-end          | BET1A - rails research                       | 3 | Nathaniel                 |  |  |  | 
+|                   | BET1B - rails research                       | 3 | Ryan                      | Feb 13 | Feb 15 | 3 | 
+|                   | BET1C - rails research                       | 3 | Yuechuan                  |  |  |  | 
 |                   | BET2 - QB interface                          | 1 | Nathaniel                 |  |  |  | 
 |                   | BET3 - basic functions                       | 2 | Nathaniel, Ryan           |  |  |  | 
 |                   | BET4 - matching controller                   | 2 | Nathaniel, Ryan           |  |  |  | 
