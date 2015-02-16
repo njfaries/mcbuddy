@@ -20,7 +20,7 @@
 |                   | S10T5 - display profile mockup               | 1 | Han                       |  |  |  | 
 |                   | S10T6 - display profile UI coding            | 3 | Han                       |  |  |  | 
 | UI Misc           | UIMT1 - refactor UI code                     | 4 | Carl, Han                 |  |  |  | 
-|                   | UIMT2 - verification tools: research         | 2 | Carl                      |  |  |  |
+|                   | UIMT2 - verification tools: research         | 2 | Carl                      | Feb 16 |  |  |
 |                   | UIMT3 - verification tools: implementation   | 2 | Carl                      |  |  |  |
 |                   | UIMT4 - build automation: research           | 2 | Carl                      |  |  |  |
 |                   | UIMT5 - build automation: implementation     | 2 | Carl                      |  |  |  |
