@@ -10,9 +10,9 @@
 |                   | S06T3 - Matching algorithm implementation    | 3 | Yuechuan                  |  |  |  |
 |                   | S06T4 - Matching algorithm testing           | 2 | Yuechuan                  |  |  |  | 
 |                   | S06T5 - database setup                       | 3 | Ryan                      |  |  |  |
-| S8 - Chat system  | S08T1 - fix static code                      | 3 | Phil                      |  |  |  | 
-|                   | S08T2 - functionality                        | 4 | Phil, Lilly               |  |  |  | 
-|                   | S08T3 - QB integration                       | 4 | Phil, Lilly               | Feb 15 | Feb 15  | 2  | 
+| S8 - Chat system  | S08T1 - fix static code                      | 3 | Phil                      | Feb 15 | Feb 15 | 5 | 
+|                   | S08T2 - functionality                        | 4 | Phil, Lilly               | Feb 15 | Feb 15 | 2 | 
+|                   | S08T3 - QB integration                       | 4 | Phil, Lilly               | Feb 15 | Feb 15 | 2 | 
 | S10 - Profile page| S10T1 - edit profile research                | 2 | Nick                      |  |  |  | 
 |                   | S10T2 - edit profile mockup                  | 1 | Nick                      |  |  |  | 
 |                   | S10T3 - edit profile UI coding               | 3 | Han                       |  |  |  | 
@@ -37,13 +37,13 @@
 | Scrum Master      | SMT1 - week 1 UI task list creation          | 1 | Amee                      | Feb 11 | Feb 11 | 1 | 
 |                   | SMT2 - week 1 BE task list creation          | 1 | Amee                      | Feb 13 | Feb 13 | 1 | 
 |                   | SMT3 - week 1 misc task list creation        | 1 | Amee                      | Feb 13 | Feb 13 | 1 | 
-|                   | SMT4 - week 1 compilation                    | 2 | Amee                      |  |  |  | 
+|                   | SMT4 - week 1 compilation                    | 2 | Amee                      | Feb 15 | Feb 15 | 2 | 
 |                   | SMT5 - week 2 task list update               | 1 | Amee                      |  |  |  | 
 |                   | SMT6 - week 2 compilation                    | 2 | Amee                      |  |  |  | 
 |                   | SMT7 - week 3 task list update               | 1 | Amee                      |  |  |  | 
 |                   | SMT8 - week 3 compilation                    | 2 | Amee                      |  |  |  | 
 |                   | SMT9 - ending compilation                    | 2 | Amee                      |  |  |  | 
-|                   | SMT10 - week 1 other SM tasks                | 1 | Amee                      |  |  |  | 
+|                   | SMT10 - week 1 other SM tasks                | 1 | Amee                      | Feb 15 | Feb 15 | 1 | 
 |                   | SMT11 - week 2 other SM tasks                | 1 | Amee                      |  |  |  | 
 |                   | SMT12 - week 3 other SM tasks                | 2 | Amee                      |  |  |  | 
 | Git               | GT1 - week 1 git maintenance                 | 1 | Nick                      |  |  |  | 
@@ -63,16 +63,16 @@ Week definitions:
  
 | Person    | Estimated | Week 1 Actual | Week 2 Actual  | Week 3 Actual | Sprint Actual Hours | 
 | :-------: | :-------: | :-----------: | :------------: | :-----------: | :-----------------: | 
-| Amee      | 17        |               |                |               |                     | 
-| Carl      | 12        |               |                |               |                     | 
-| Han       | 13        |               |                |               |                     | 
-| Lilly     | 11        |               |                |               |                     | 
-| Nathaniel | 12        |               |                |               |                     | 
-| Nick      | 12        |               |                |               |                     | 
-| Phil      | 11        |               |                |               |                     | 
-| Ryan      | 13        |               |                |               |                     | 
-| Yuechuan  | 12        |               |                |               |                     | 
-| **TOTAL** | **113**   |               |                |               |                     | 
+| Amee      | 17        | 6             |                |               |                     | 
+| Carl      | 12        | 0             |                |               |                     | 
+| Han       | 13        | 0             |                |               |                     | 
+| Lilly     | 11        | 4             |                |               |                     | 
+| Nathaniel | 12        | 0             |                |               |                     | 
+| Nick      | 12        | 0             |                |               |                     | 
+| Phil      | 11        | 9             |                |               |                     | 
+| Ryan      | 13        | 3             |                |               |                     | 
+| Yuechuan  | 12        | 0             |                |               |                     | 
+| **TOTAL** | **113**   | **22**        |                |               |                     | 
  
  
 ## Sprint 2 Meetings 
