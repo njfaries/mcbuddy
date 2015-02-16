@@ -10,7 +10,7 @@
 
 .buddy-profile {
     text-align: center;
-    padding: 50px 10px 10px 10px;
+    padding: 50px 10px 100px 10px;
 }
 
 .buddy-profile > * {
@@ -76,4 +76,23 @@ td {
 
 .buddy-bio {
 
+}
+
+/* Choose or reject buddy */
+.choose-buddy {
+    text-align: center;
+}
+
+.choose-buddy-yes {
+    display: inline-block;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.choose-buddy-no {
+    display: inline-block;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
 }
