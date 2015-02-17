@@ -28,7 +28,7 @@
 |                   | BET1B - rails research                       | 3 | Ryan                      | Feb 13 | Feb 15 | 3 | 
 |                   | BET1C - rails research                       | 3 | Yuechuan                  |  |  |  | 
 |                   | BET2 - QB interface                          | 1 | Nathaniel                 |  |  |  | 
-|                   | BET3 - basic functions                       | 2 | Nathaniel, Ryan           | Feb 17 |  |  | 
+|                   | BET3 - basic functions                       | 2 | Nathaniel, Ryan           | Feb 17 | Feb 17 | 3 | 
 |                   | BET4 - matching controller                   | 2 | Nathaniel, Ryan           | Feb 17 |  |  | 
 |                   | BET5 - profile controller                    | 2 | Nathaniel                 | Feb 17 |  |  |
 |                   | BET6 - authentication/session controller     | 2 | Nathaniel, Ryan           |  |  |  |
